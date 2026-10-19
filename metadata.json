@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Nexus AI helps businesses turn artificial intelligence into practical strategy, automation and solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
